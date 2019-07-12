@@ -19,12 +19,12 @@ git clone https://github.com/willryan1/Encryptionator3.0.git
 
 ## Usage
 ```
-python3 encryptionator [-h] (-e | -d) fileyouwanttoencrypt
+python3 encryptionator.py [-h] (-e | -d) fileyouwanttoencrypt
 ```
 
 ### Get Help
 ```
-python3 encryptionator -h
+python3 encryptionator.py -h
 ```
 
 ## Author
